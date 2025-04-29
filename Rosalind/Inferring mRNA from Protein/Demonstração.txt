@@ -1,0 +1,24 @@
+Demonstração 
+
+29 mod 11 = 7
+73 mod 11 = 7
+
+10 mod 11 = 10
+32 mod 11 = 10
+
+29 congruent 73 mod 11
+10 congruent 32 mod 11
+
+29 + 10 congruent 73 + 32 mod 11
+39 congruent 105 mod 11 
+39 mod 11 = 6
+105 mod 11 = 6
+
+29 * 10 congruent 73 * 32 mod 11
+290 congruent 2336 mod 11
+290 mod 11 = 4
+2336 mod 11 = 4
+
+---------------------------------------
+
+
