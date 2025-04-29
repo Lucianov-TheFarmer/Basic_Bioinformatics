@@ -1,3 +1,3 @@
-Esse repositório contém alguns algoritmos básicos e introdutórios de bioinformática escritos antes de 2024.
+Esse repositório contém alguns algoritmos básicos e introdutórios de bioinformática que desenvolvi durante meus estudos.
 
-This repository contains some basic and introductory bioinformatics algorithms written before 2024.
+This repository contains some basic and introductory bioinformatics algorithms that i developed during my studies.
